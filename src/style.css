@@ -1,0 +1,26 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body{
+	position: relative;
+}
+.navigation{
+	border: 2px solid black;
+	width: 100%;
+	height:50px;
+}
+.navigation ul{
+	text-dicoration: none;
+	list-style-type: none;
+}
+.header{
+	border: 2px solid red;
+}
+.section {
+	border: 2px solid red;
+}
+.footer{
+	border: 2px solid red;
+}
